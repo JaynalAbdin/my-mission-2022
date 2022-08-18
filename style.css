@@ -1,0 +1,195 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    width: 100%;
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+section {
+    margin: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 16px;
+    width: 100%;
+
+}
+
+.btn {
+    /* border: 3px solid orangered; */
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+
+}
+
+.half-width {
+    width: 100%;
+    padding: 10px;
+
+
+
+}
+
+/* .half-width2 {
+    width: 25%;
+} */
+
+.half-width img {
+    width: 50%;
+}
+
+.orange {
+    color: orange;
+}
+
+.focus-div {
+    border-left: 4px solid orange;
+
+}
+
+.focused-container {
+    display: flex;
+
+}
+
+.second-container {
+    width: 80%;
+    display: flex;
+    align-items: center;
+
+}
+
+.my-mission {
+    text-align: center;
+}
+
+.mission {
+    background-color: burlywood;
+    width: 100%;
+    box-shadow: 12px 12px 40px rgba(163, 163, 194, 0.2);
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.vission {
+    background-color: coral;
+    width: 100%;
+    box-shadow: 12px 12px 40px rgba(90, 90, 94, 0.2);
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.goals {
+    background-color: khaki;
+    width: 100%;
+    box-shadow: 12px 12px 40px rgba(0, 0, 255, .2);
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.develop {
+    display: flex;
+    width: 80%;
+}
+
+.develop-halfwidth {
+    width: 50%;
+    margin-right: 15px;
+
+}
+
+.develop-halfwidth img {
+    width: 50%;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.dev-para {
+    margin-bottom: 50px;
+}
+
+.global-community {
+    display: flex;
+
+}
+
+.global-halfwidth {
+    width: 70%;
+    margin-right: 15px;
+}
+
+.global-halfwidth img {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.corona-container {
+    display: flex;
+}
+
+.div-corona {
+    width: 50%;
+    margin-right: 15px;
+}
+
+.div-corona img {
+    width: 80%;
+    position:
+
+}
+
+#build {
+    margin-bottom: 30px;
+}
+
+form {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+footer {
+    background-color: black;
+}
+
+.mission-footer {
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.ftr-paragraph {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
